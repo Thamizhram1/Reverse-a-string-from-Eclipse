@@ -3,7 +3,7 @@ package com.la.collectiondemo;
 public class List {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		system.out.println("Test Git push job");
 
 	}
 
